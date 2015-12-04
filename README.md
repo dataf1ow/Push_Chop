@@ -1,5 +1,5 @@
-# Push_Karma
--A place to keep all of my Push_Chop and Push_Karma devices. 
+# Push_Chop
+-A place to keep all of my Push_Chop related Devices
 
 I will use this to track bugs, versions and features. 
 
